@@ -1,1 +1,0 @@
-Projeto desenvolvido durante o curso de "", pela Udemy, orientado pelo professor Matheus Battisti. Trata-se de uma calculadora utilizando as tecnologias web html, css, js com foco na orientação o objeto e na manipulalação do DOM (Document Object Model).
